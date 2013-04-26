@@ -1,0 +1,12 @@
+This is a sample project for creating web app and adding the possibility to gather
+test coverage of integration tests executions using Jetty, Sonar, Jacoco and Maven
+build system.
+
+ACTORS:
+
+1. jacoco-maven-plugin - instruments classes on the fly and expose system property,
+which can be consumed by other processes to generate execution dump.
+2. jetty-maven-plugin - Jetty is used as container to run our REST web app
+3. maven-failsafe-plugin - runs our ITs
+
+See pom.xml for details.

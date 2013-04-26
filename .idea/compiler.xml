@@ -25,6 +25,9 @@
         <module name="sonar_analysis" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sonar_analysis" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
