@@ -11,3 +11,6 @@ which can be consumed by other processes to generate execution dump.
 
 See pom.xml for details.
 
+PS. Sorry for pushing .idea stuff, I think there is no reason to watch commit history,
+hence I didn't bother myself.
+
