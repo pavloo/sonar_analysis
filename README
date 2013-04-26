@@ -1,6 +1,6 @@
 This is a sample project for creating web app and adding the possibility to gather
 test coverage of integration tests executions using Jetty, Sonar, Jacoco and Maven
-build system.
+build system. So it can be successfully run on CI system.
 
 ACTORS:
 
@@ -10,3 +10,4 @@ which can be consumed by other processes to generate execution dump.
 3. maven-failsafe-plugin - runs our ITs
 
 See pom.xml for details.
+
