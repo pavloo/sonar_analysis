@@ -1,9 +1,3 @@
-// //////////////////////////////////////
-// BMC Software, Inc.
-// Confidential and Proprietary
-// Copyright (c) BMC Software, Inc. 2013
-// All Rights Reserved.
-// //////////////////////////////////////
 package com.example_osadchyi;
 
 import javax.ws.rs.Consumes;
